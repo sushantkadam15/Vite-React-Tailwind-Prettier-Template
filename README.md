@@ -1,8 +1,20 @@
-# React + Vite
+# Vite React Tailwind Prettier Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Turbocharge your React development with this template, leveraging Vite for speed, React for power, Tailwind CSS for utility-first styling, and Prettier with Tailwind Plugin for automated class sorting.
 
-Currently, two official plugins are available:
+## Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Vite:** Lightning-fast development with Vite's optimized build tool.
+- **React:** A robust and popular JavaScript library for building user interfaces.
+- **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
+- **Prettier with Tailwind Plugin:** Seamlessly sort Tailwind CSS classes in your templates for clean and consistent code.
+
+![Capture-2023-11-11-073441](https://github.com/sushantkadam15/Vite-React-Tailwind-Prettier-Template/assets/23254047/2e942a2f-3945-435c-800d-7cb499aa0527)
+
+## Getting Started
+
+1. **Clone the Repository:** `git clone https://github.com/your-username/Vite-React-Tailwind-Prettier-Template.git`
+2. **Install Dependencies:** `npm install`
+3. **Start the Development Server:** `npm run dev`
+4. **Build for Production:** `npm run build`
+
