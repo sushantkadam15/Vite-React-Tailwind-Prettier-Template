@@ -11,10 +11,5 @@ Turbocharge your React development with this template, leveraging Vite for speed
 
 ![Capture-2023-11-11-073441](https://github.com/sushantkadam15/Vite-React-Tailwind-Prettier-Template/assets/23254047/2e942a2f-3945-435c-800d-7cb499aa0527)
 
-## Getting Started
 
-1. **Clone the Repository:** `git clone https://github.com/your-username/Vite-React-Tailwind-Prettier-Template.git`
-2. **Install Dependencies:** `npm install`
-3. **Start the Development Server:** `npm run dev`
-4. **Build for Production:** `npm run build`
 
